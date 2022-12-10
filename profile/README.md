@@ -19,13 +19,14 @@ That which we cannot joke about, we must pass over in silence.
 * Getting the embedded vectors or the hidden state or context
 * Iterative generation, brainstorming, riffing without the meeting hogs, clowns, attention whores
 
-4. Multijargon Named Entity Recognition
+4. Calling Out Multijargon Stupid-Named Entity misRecognition
 
 * Double entrendre
 * Ambiguity
 * Puns, malapropisms
 * Finer points
 * Distinction
+* No, you don't understand ... you think you do ... but you DON'T understand.
 
 5. Joke Generation
 
