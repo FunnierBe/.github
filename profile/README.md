@@ -30,9 +30,9 @@ That which we cannot joke about, we must pass over in silence.
 
 5. Joke Generation
 
-6. Bad Summarization
+6. Bad Summarization and Missing The Point To Make A Point
 
-7. Question Misanswering
+7. Question Misanswering and Dodging
 
 8. Making Transformers Funny In Production
 
