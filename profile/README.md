@@ -2,7 +2,7 @@
 
 *Funny? Funny, how? In what way? Why is that funny?*
 
-Whatever we can joke about, we must pass over in silence.
+That which we cannot joke about, we must pass over in silence.
 
 1. [Transformers](https://github.com/cedrickchee/awesome-transformer-nlp)
 
