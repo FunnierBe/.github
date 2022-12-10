@@ -1,6 +1,6 @@
 # Recursively Neural 
 
-*Funny? Funny, how? In what way? Why is that funny?*
+*Funny? Funny, how? In what way? Why is that funny? Is this some kind of a joke?*
 
 That which we cannot joke about, we must pass over in silence.
 
