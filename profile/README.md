@@ -26,7 +26,7 @@ That which we cannot joke about, we must pass over in silence.
 * Puns, malapropisms
 * Finer points
 * Distinction
-* No, you don't understand ... you think you do ... but you DON'T understand.
+* No, you don't understand ... you think you do ... but you don't EVEN understand that you don't understand.
 
 5. Joke Generation
 
