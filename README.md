@@ -1,6 +1,8 @@
 # Recursively Neural 
 
-*Funny? Funny, how? Why is that funny?*
+*Funny? Funny, how? In what way? Why is that funny? Is this some kind of a joke?*
+
+That which we cannot joke about, we must pass over in silence.
 
 1. [Transformers](https://github.com/cedrickchee/awesome-transformer-nlp)
 
@@ -17,19 +19,20 @@
 * Getting the embedded vectors or the hidden state or context
 * Iterative generation, brainstorming, riffing without the meeting hogs, clowns, attention whores
 
-4. Multijargon Named Entity Recognition
+4. Calling Out Multijargon Stupid-Named Entity misRecognition
 
 * Double entrendre
 * Ambiguity
 * Puns, malapropisms
 * Finer points
 * Distinction
+* No, you don't understand ... you think you do ... but you don't EVEN understand that you don't understand.
 
 5. Joke Generation
 
-6. Bad Summarization
+6. Bad Summarization and Missing The Point To Make A Point
 
-7. Question Misanswering
+7. Question Misanswering and Dodging
 
 8. Making Transformers Funny In Production
 
