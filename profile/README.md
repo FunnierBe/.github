@@ -40,4 +40,11 @@ That which we cannot joke about, we must pass over in silence.
 
 10. Training Transformers From Scratch
 
-11. Future Directions
+11. Disrupt dysfunctional affluent cultures; push antifragility; study how skill economies work
+
+12. Meet new people, stop hanging with people who cannot take a joke, listen and push harder
+
+
+
+
+ 
